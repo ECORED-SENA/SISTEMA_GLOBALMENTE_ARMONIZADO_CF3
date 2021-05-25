@@ -38,43 +38,7 @@ const router = new VueRouter({
           component: () =>
             import(/* webpackChunkName: "tema2" */ '../views/Tema2.vue'),
         },
-        {
-          path: 'tema3',
-          name: 'tema3',
-          component: () =>
-            import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
-        },
       ],
-    },
-    {
-      path: '/actividad',
-      name: 'actividad',
-      component: () =>
-        import(/* webpackChunkName: "actividad" */ '../views/Actividad.vue'),
-    },
-    {
-      path: '/glosario',
-      name: 'glosario',
-      component: () =>
-        import(
-          /* webpackChunkName: "glosario" */ '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
-        ),
-    },
-    {
-      path: '/complementario',
-      name: 'complementario',
-      component: () =>
-        import(
-          /* webpackChunkName: "comple" */ '../../node_modules/ecored-base-pkg/src/views/Complementario.vue'
-        ),
-    },
-    {
-      path: '/referencias',
-      name: 'referencias',
-      component: () =>
-        import(
-          /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
-        ),
     },
     {
       path: '/creditos',

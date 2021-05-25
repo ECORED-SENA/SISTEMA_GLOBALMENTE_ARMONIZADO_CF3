@@ -8,13 +8,13 @@
         .h3 2
       .h3 Transporte interno de los productos químicos
 
-    .row.mb-4
-      .col-6
-        figure.mb-5
-          img.mediumHC(src='@/assets/curso/tema3/img01.svg', alt='Transporte interno de los productos químicos')
-      .col-6.d-flex
-        .cajon.d-flex.align-items-center.color-primario.p-4.mb-4
-          p.mb-4 El transporte interno de productos químicos en las empresas es muy importante y requiere tener en cuenta la cantidad, tipo de productos y peligrosidad de estos para establecer el procedimiento requerido. Además, en esta actividad es importante disponer de los materiales, equipos, elementos de protección personal que son necesarios para la adecuada gestión según lo establecido en la FDS.
+    .row.mb-5
+      .col-12.col-md-6.mb-4.mb-md-0
+        figure
+          img(src='@/assets/curso/tema3/img01.png', alt='Transporte interno de los productos químicos')
+      .col-12.col-md-6.d-flex
+        .cajon.d-flex.align-items-center.color-primario.p-4
+          p El transporte interno de productos químicos en las empresas es muy importante y requiere tener en cuenta la cantidad, tipo de productos y peligrosidad de estos para establecer el procedimiento requerido. Además, en esta actividad es importante disponer de los materiales, equipos, elementos de protección personal que son necesarios para la adecuada gestión según lo establecido en la FDS.
 
     #t_2_1.titulo-segundo
       .h4 2.1 Condiciones de seguridad
@@ -22,7 +22,7 @@
     p.mb-4 Cuando se va a realizar el transporte interno de algún  producto químico se debe verificar previamente las condiciones de seguridad del vehículo, el estado del mantenimiento de este y, las condiciones y competencias de la persona que lo va utilizar,  el conocimiento y respeto de las señalizaciones establecidas y las zonas de tránsito definidas en el trayecto, así como el estado  y condiciones de envases y empaques de los productos a trasladar, para identificar cualquier anomalía que estos tengan y corregirlas previo a movilizarlos.
 
     figure.mb-5
-      img.mediumHC(src='@/assets/curso/tema3/img02.svg', alt='Condiciones de seguridad')
+      img(src='@/assets/curso/tema3/img02.png', alt='Condiciones de seguridad')
 
     #t_2_2.titulo-segundo
       .h4 2.2 Riesgos y peligros en el traslado interno
