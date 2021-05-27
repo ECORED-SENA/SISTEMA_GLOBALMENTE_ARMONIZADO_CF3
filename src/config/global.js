@@ -123,6 +123,11 @@ export default {
         titulo: 'Glosario',
       },
       {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
+      {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
@@ -348,7 +353,7 @@ export default {
     {
       termino: 'Equipamiento',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Corresponde a los equipos e implementos de seguridad para combatir todo tipo de emergencias en una empresa.',
     },
     {
       termino: 'Grupo de compatibilidad',
@@ -387,32 +392,20 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+      texto: 'GemaPro. (2021). Memoria técnica de ventilación suspel/respel.',
+      tipo: 'Blog',
+      link: 'https://www.gemapro.cl/memoria-tecnica-ventilacion-suspel-respel/',
+    },
+    {
+      texto: 'Norte Minero TV. (2019). Manejo de sustancias químicas.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=ksrAt42TkCs',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Proyecto Higiene Química Universidad de Antioquia, (2019). Almacenamiento de productos químicos.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=n8jok7B2Oog',
     },
   ],
 }
