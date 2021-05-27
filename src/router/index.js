@@ -41,6 +41,22 @@ const router = new VueRouter({
       ],
     },
     {
+      path: '/glosario',
+      name: 'glosario',
+      component: () =>
+        import(
+          /* webpackChunkName: "glosario" */ '../../node_modules/ecored-base-pkg/src/views/Glosario.vue'
+        ),
+    },
+    {
+      path: '/referencias',
+      name: 'referencias',
+      component: () =>
+        import(
+          /* webpackChunkName: "referencias" */ '../../node_modules/ecored-base-pkg/src/views/Referencias.vue'
+        ),
+    },
+    {
       path: '/creditos',
       name: 'creditos',
       component: () =>

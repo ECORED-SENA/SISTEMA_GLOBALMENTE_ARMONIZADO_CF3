@@ -14,12 +14,16 @@
           img(src='@/assets/curso/tema3/img01.png', alt='Transporte interno de los productos químicos')
       .col-12.col-md-6.d-flex
         .cajon.d-flex.align-items-center.color-primario.p-4
-          p El transporte interno de productos químicos en las empresas es muy importante y requiere tener en cuenta la cantidad, tipo de productos y peligrosidad de estos para establecer el procedimiento requerido. Además, en esta actividad es importante disponer de los materiales, equipos, elementos de protección personal que son necesarios para la adecuada gestión según lo establecido en la FDS.
+          p El transporte interno de productos químicos en las empresas es muy importante y 
+            storng requiere tener en cuenta la cantidad, tipo de productos y peligrosidad de estos para establecer el procedimiento requerido. 
+            | Además, en esta actividad es importante disponer de los materiales, equipos, elementos de protección personal que son necesarios para la adecuada gestión según lo establecido en la FDS.
 
     #t_2_1.titulo-segundo
       .h4 2.1 Condiciones de seguridad
 
-    p.mb-4 Cuando se va a realizar el transporte interno de algún  producto químico se debe verificar previamente las condiciones de seguridad del vehículo, el estado del mantenimiento de este y, las condiciones y competencias de la persona que lo va utilizar,  el conocimiento y respeto de las señalizaciones establecidas y las zonas de tránsito definidas en el trayecto, así como el estado  y condiciones de envases y empaques de los productos a trasladar, para identificar cualquier anomalía que estos tengan y corregirlas previo a movilizarlos.
+    p.mb-4 Cuando se va a realizar el transporte interno de algún  producto químico 
+      strong se debe verificar previamente las condiciones de seguridad del vehículo, el estado del mantenimiento de este y, las condiciones y competencias de la persona que lo va utilizar, 
+      | el conocimiento y respeto de las señalizaciones establecidas y las zonas de tránsito definidas en el trayecto, así como el estado  y condiciones de envases y empaques de los productos a trasladar, para identificar cualquier anomalía que estos tengan y corregirlas previo a movilizarlos.
 
     figure.mb-5
       img(src='@/assets/curso/tema3/img02.png', alt='Condiciones de seguridad')
@@ -41,7 +45,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p Para más información sobre este tema se recomienda que consulte el documento
+            strong Para más información sobre este tema se recomienda que consulte el documento
             p Documento anexo- 9 “Transporte interno de productos químicos”
    
 </template>

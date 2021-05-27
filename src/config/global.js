@@ -117,21 +117,10 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
-      },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
       },
       {
         icono: 'fas fa-book',
@@ -243,15 +232,15 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'ARP SURA. (s.f.). Almacenamiento seguro de sustancias químicas. (s.f). Centro de Información de Sustancias Químicas, Emergencias y Medio Ambiente - Cistema, p. 1-8.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.arlsura.com/files/almacenamiento_sustancias_quimicas.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Consejo Colombiano de Seguridad. (2000). Almacenamiento de sustancias químicas  y residuos peligrosos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://www.ambientebogota.gov.co/documents/24732/3987253/Almnto%20de%20Sust.%20Qu%C3%ADmicas.pdf',
     },
     {
       referencia:
@@ -259,78 +248,141 @@ export default {
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Gema pro, (2020). Memoria técnica de ventilación suspel/respel. [Archivo de video]. YouTube.',
+      link: 'https://www.gemapro.cl/memoria-tecnica-ventilacion-suspel-respel/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'ICONTEC. (1998). Norma Técnica Colombiana NTC 2050. Código Eléctrico Colombiano.',
+      link:
+        'https://www.idrd.gov.co/sitio/idrd/sites/default/files/imagenes/ntc%2020500.pdf',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Instituto Nacional de Seguridad e Higiene en el Trabajo. (2014). Almacenamiento de productos químicos. Orientaciones para la identificación de los requisitos de seguridad en el almacenamiento de productos químicos peligrosos. INSHT.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.insst.es/documents/94886/96076/Almacenamiento+de+productos+quimicos.pdf/87f75b14-b979-4745-8bb5-5f6cb7d49e53',
     },
     {
       referencia:
-        'Sociedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (sf). Guías ambientales de almacenamiento y transporte por carretera de sustancias químicas peligrosas y residuos peligrosos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sustancias_qu%C3%ADmicas_y_residuos_peligrosos/guias_ambientales_almacenam_transp_x_carretera_sust_quim_res_pelig.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (s.f.). Guías para manejo seguro y gestión ambiental de 25 sustancias químicas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.minambiente.gov.co/images/AsuntosambientalesySectorialyUrbana/pdf/sustancias_qu%C3%ADmicas_y_residuos_peligrosos/guia_25_sustancias.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Minas y Energía. (s.f). Reglamento Técnico de Instalaciones Eléctricas – RETIE.',
+      link: 'https://www.minenergia.gov.co/retie',
+    },
+    {
+      referencia:
+        'Norte Minero TV. (2019). Manejo de sustancias químicas.   [Video] YouTube.',
+      link: 'https://www.youtube.com/watch?v=ksrAt42TkCs',
+    },
+    {
+      referencia:
+        'Paba, P., Hernández, W., Carvajal, A., González, O. & Torres, J. (s.f.). Unidad 3. Gestión de inventarios, almacenes y aprovisionamiento. Informe sobre los conceptos de gestión de inventarios, almacenamientos y aprovisionamiento. UNAD.',
+      link:
+        'https://repository.unad.edu.co/bitstream/handle/10596/19194/79514834.pdf?sequence=4&isAllowed=y',
+    },
+    {
+      referencia:
+        'Proyecto Higiene Química Universidad de Antioquia, (2019). Almacenamiento de productos químicos. [Video] YouTube.',
+      link: 'https://www.youtube.com/watch?v=n8jok7B2Oog',
+    },
+    {
+      referencia: 'SENA. (s.f.). Curso manejo de productos químicos. ',
+    },
+    {
+      referencia:
+        'SURA ARL. (s.f.).  ¿Qué es CISTEMA? Centro de Información de Sustancias Químicas, Emergencias y Medio Ambiente de ARL SURA.',
+      link:
+        'https://www.arlsura.com/index.php/44-cistema-/ique-es-cistema-/48-ique-es-cistema',
+    },
+    {
+      referencia:
+        'UNECE. (2015). Sistema Globalmente Armonizado de clasificación y etiquetado de productos químicos (SGA). Sexta edición revisada.  Naciones Unidas Nueva York y Ginebra.',
+      link:
+        'https://www.unece.org/fileadmin/DAM/trans/danger/publi/ghs/ghs_rev06/Spanish/ST-SG-AC10-30-Rev6sp.pdf',
+    },
+    {
+      referencia:
+        'Universidad Industrial de Santander. (2012). Protocolo de Seguridad Química. Manipulación segura de sustancias químicas.',
+      link:
+        'https://www.uis.edu.co/intranet/calidad/documentos/gestion_ambiental/protocolos/TTH.01.pdf',
+    },
+    {
+      referencia:
+        'Universidad Pública de Navarra.(s.f.). Manual de uso de productos químicos UPNA.',
+      link:
+        'http://www.unavarra.es/digitalAssets/146/146686_100000Manual-de-uso-de-productos-quimicos.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Almacenamiento',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es el acto de almacenar (custodiar) bienes que serán vendidos o distribuidos más tarde.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Armarios de seguridad',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Son gabinetes para guardar productos químicos, sustancias tóxicas, lacas, disolventes, pinturas, productos contaminantes o inflamables que tienen que estar protegidos, deben tener la máxima garantía de seguridad, ser efectivos y además, estar conformes con la legislación.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Contenedores',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Son gabinetes para el almacenamiento de productos químicos, es un almacén prefabricado específicamente para ello, cumpliendo con todos los requisitos necesarios que exige la normativa de almacenamiento de productos químicos.',
     },
     {
-      termino: 'Vectores',
+      termino: 'Envase',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Recipiente destinado a contener productos hasta su consumo final.',
     },
     {
-      termino: 'Moda',
+      termino: 'Equipamiento',
       significado:
         'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Grupo de compatibilidad',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Conjunto de mercancías de la clase 1 “explosivos” que se consideran “compatibles” cuando se pueden estibar o transportar varias al mismo tiempo en condiciones de seguridad, sin aumentar de manera apreciable la probabilidad de accidente o la magnitud de los efectos de este, respecto a una cantidad determinada.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Plan de emergencias',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Definición de políticas, organizaciones y métodos que hincan la manera de enfrentar una situación de emergencia o desastre, en lo general y en lo particular, en sus distintas fases.',
     },
     {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+      termino: 'Señal de advertencia',
+      significado: 'Una señal que advierte sobre un riesgo o peligro.',
     },
     {
-      termino: 'Software',
+      termino: 'Señalización ',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Señal o conjunto de señales que en un lugar proporcionan una información determinada, especialmente las señales de tráfico que regulan la circulación.',
+    },
+    {
+      termino: 'Transporte interno',
+      significado:
+        'Es el transporte dentro de las instalaciones de la empresa y representa el desplazamiento de materiales a granel o mercancías en un sistema, es decir, dentro del emplazamiento, por ejemplo, emplazamiento de producción y centro de distribución de una empresa.',
+    },
+    {
+      termino: 'Trasvase',
+      significado:
+        'Consiste en mover, pasar, trasladar, desplazar un fluido o líquido de un recipiente, envase, cavidad, receptáculo a otro.',
+    },
+    {
+      termino: 'Tóxico',
+      significado:
+        'Producto que puede causar la muerte, lesiones graves o nocivas para la salud humana si se ingieren, inhalan o entran en contacto con la piel.',
     },
   ],
   complementario: [
