@@ -605,7 +605,7 @@
           .col-12.col-md-6.d-flex.mb-4.mb-md-0
             .cajon.align-items-center.color-primario.p-4.mb-4
               p.mb-4
-                strong 1.7.13.1 Estanterías
+                strong Estanterías
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img16.svg', alt='Señalización')
               p Son primordiales en las zonas de almacenamiento porque permiten realizar una mejor distribución de los espacios al organizar los productos, minimizando los riesgos derivados de su ubicación.
@@ -613,7 +613,7 @@
           .col-12.col-md-6.d-flex.mb-4.mb-md-0
             .cajon.align-items-center.color-primario.p-4.mb-4
               p.mb-4
-                strong 1.7.13.2 Armarios de seguridad
+                strong Armarios de seguridad
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img17.svg', alt='Armarios de seguridad')
               p.mb-4 Son utilizados para guardar productos que requieren condiciones específicas de almacenamiento, ya sea porque deben estar aislados o porque requieren una protección para el almacenamiento de productos químicos.
@@ -621,7 +621,7 @@
           .col-12.col-md-6.d-flex.mb-4.mb-md-0
             .cajon.align-items-center.color-primario.p-4.mb-4
               p.mb-4
-                strong 1.7.13.3 Refrigeradores y cuartos fríos
+                strong Refrigeradores y cuartos fríos
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img18.svg', alt='Refrigeradores y cuartos fríos')
               p.mb-4 Existen productos químicos que requieren ser almacenados a bajas temperaturas, por ello necesitan condiciones de almacenamiento diferentes a través del uso de refrigeradores y en algunos casos, hasta el uso de cuartos fríos.
@@ -629,7 +629,7 @@
           .col-12.col-md-6.d-flex.mb-4.mb-md-0
             .cajon.align-items-center.color-primario.p-4.mb-4
               p.mb-4
-                strong 1.7.13.4 Contenedores
+                strong Contenedores
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img19.svg', alt='Contenedores')
               p.mb-4 Para el almacenamiento de los productos químicos es importante identificar los contenedores como un almacén prefabricado, que cumple con todos los requisitos necesarios para el adecuado almacenamiento de estos productos. Son utilizados como mecanismos de seguridad en el almacenamiento de dichos productos, minimizando así los riesgos asociados a su manipulación.
