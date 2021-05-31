@@ -125,7 +125,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/fk298284tQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XhIY4dCBOSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     #t_1_4.titulo-segundo
       .h4 1.4 Ingreso y salida de productos químicos
@@ -193,7 +193,7 @@
     
     p.mb-4 La variedad de instalaciones depende de la cantidad y, estas se dividen en:
 
-    SlyderA.mb-5(:datos="datosSlyderA")
+    SlyderC.mb-5(:datos="datosSlyderA")
 
     .row.mb-5
       .col-12.col-md-9
