@@ -189,7 +189,7 @@
 
     p.mb-5 Las instalaciones de almacenamiento van asociadas a las cantidades que se requieren almacenar y a los tipos de productos según sus peligros.
 
-    .h5.mb-4 1.7.1 Tipos
+    .h5.mb-4 Tipos
     
     p.mb-4 La variedad de instalaciones depende de la cantidad y, estas se dividen en:
 
@@ -204,7 +204,7 @@
             strong Para más información sobre este tema se recomienda que consulte el documento.
             p Documento anexo-2 “Tipos de instalaciones de almacenamiento de los productos químicos”
 
-    .h5.mb-4 1.7.2. Localización
+    .h5.mb-4 Localización
 
     p.mb-4 Para la ubicación del sitio de almacenamiento de los productos químicos tenga en cuenta los siguientes aspectos:
 
@@ -257,7 +257,7 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/dO16cgzq3RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
-      .h5.mb-4 1.7.3. Espacios
+      .h5.mb-4 Espacios
 
       p.mb-4 La bodega debe ser diseñada de tal manera que permita 
         strong la separación de materiales incompatibles por medios físicos o contar con una ubicación de áreas separadas y segregadas, 
@@ -274,7 +274,7 @@
               strong Con el fin de ampliar este tema se recomienda que consulte el documento.
               p Documento anexo-3 “Diseño de la bodega de almacenamiento de productos químicos”
 
-      .h5.mb-4 1.7.4. Sectorización
+      .h5.mb-4 Sectorización
 
       p.mb-4 Dividir y clasificar las superficies de los locales en secciones distanciadas unas de otras, que agrupen los distintos productos, identificando claramente con etiquetas qué productos son. En el caso de una fuga, derrame o incendio, podrá conocerse con precisión la naturaleza de los productos almacenados y así actuar con los medios adecuados. También se deben despejar los accesos a las puertas y señalizar las vías de tránsito y evacuación. En las secciones 5 y 6 de la ficha de datos de seguridad de cada producto aparecen estos elementos que permiten ampliar el tema.
 
@@ -290,7 +290,7 @@
               strong Para más información sobre este tema se recomienda que consulte el documento.
               p Documento anexo- 4 “Sectorización”
 
-      .h5.mb-4 1.7.5. Materiales constructivos 
+      .h5.mb-4 Materiales constructivos 
 
       .cajon.color-acento-contenido.p-4.mb-4
         p.mb-4 Las construcciones para el almacenamiento de productos químicos 
@@ -370,7 +370,7 @@
                   strong no se deben usar abiertos dentro del almacén y deben conectarse a un sistema de recolección y tratamiento, 
                   | no al sistema de alcantarillado y mucho menos verterlos a fuentes hídricas; todos los drenajes deben ser protegidos del tránsito de vehículos y de la operación con estibas (Paba et al., s.f.).
 
-      .h5.mb-4 1.7.6. Instalación eléctrica
+      .h5.mb-4 Instalación eléctrica
 
       p.mb-4 La instalación de equipos eléctricos e iluminación en los sitios de almacenamiento de productos químicos debe atender los requisitos del 
         strong “Capítulo 5. Ambientes especiales” del Código Eléctrico Colombiano Norma NTC 2050. 
@@ -485,7 +485,7 @@
                 .h4 Otras instalaciones
                 p Idealmente, no deberían existir oficinas, vestieres o cuartos de basura como parte integral de la bodega de almacenamiento. Si estas instalaciones existen dentro de la bodega se debería construir una estructura de separación que tenga una resistencia al fuego de al menos 60 minutos.
 
-        .h5.mb-4 1.7.7 Ventilación
+        .h5.mb-4 Ventilación
 
         p.mb-4 Las características de ventilación en zonas de almacenamiento se asocian a parámetros como 
           strong la cantidad de productos de un mismo tipo que se almacenan y a las clases y categorías de peligro que presentan, 
@@ -500,7 +500,7 @@
                 strong Para ampliar la información se recomienda consultar el material complementario:
                 p GemaPro. (2021). Memoria técnica de ventilación suspel/respel. [Web log post]. 
 
-        .h5.mb-4 1.7.8. Temperatura
+        .h5.mb-4 Temperatura
 
         figure.mb-4
           img(src='@/assets/curso/tema2/img08.png', alt='Temperatura')
@@ -509,13 +509,13 @@
           strong son muy importantes y van asociadas a las clases de peligros de los productos almacenados, por ejemplo, los líquidos inflamables. 
           | En productos con peligros de inflamabilidad, explosividad, gases a presión, entre otros, la temperatura puede favorecer el inicio de incendios, por lo que el control de esta variable es crítico y su monitoreo es necesario.
 
-        .h5.mb-4 1.7.9. Humedad
+        .h5.mb-4 Humedad
 
         p.mb-5 Es una variable ambiental a controlar en la zona de almacenamiento de los productos químicos, 
           strong sobre todo en aquellos casos donde un ambiente húmedo puede ser propicio para la generación de una reacción química, 
           | es el caso de los productos químicos que en contacto con el agua desprenden gases inflamables. Asimismo, los ambientes húmedos pueden alterar los productos químicos almacenados, dicha afectación dependerá de las barreras que presente el material de empaque frente a las condiciones de humedad, a las condiciones de confort y de seguridad de los ambientes de trabajo; de ahí la importancia de su control.
 
-        .h5.mb-4 1.7.10. Iluminación
+        .h5.mb-4 Iluminación
 
         .row.mb-5
           .col-12.col-md-6.mb-4.mb-md-0
@@ -527,7 +527,7 @@
                 strong es conveniente la iluminación para la manipulación de alguno de ellos, 
                 | minimizando los riesgos para los productos químicos almacenados.
         
-        .h5.mb-4 1.7.11. Orden y limpieza
+        .h5.mb-4 Orden y limpieza
 
         p.mb-4 Para el orden y limpieza se deben observar las siguientes prácticas:
 
@@ -570,7 +570,7 @@
                   strong despejadas y limpias en todo momento 
                   | (MinAmbiente, 2003).
 
-        .h5.mb-4 1.7.12. Señalización
+        .h5.mb-4 Señalización
 
         .row.mb-5
           .col-12.col-md-7.mb-4.mb-md-0
@@ -588,7 +588,7 @@
             figure
               img.trasvasesHC(src='@/assets/curso/tema2/img15.svg', alt='Señalización')
         
-        .h5.mb-4 1.7.13 Equipamiento
+        .h5.mb-4 Equipamiento
 
         p.mb-4 Las zonas de almacenamiento de productos químicos deben contar con un equipamiento que permita optimizar el espacio a proteger, pero a la vez poder obtener los productos requeridos con facilidad.
 
@@ -697,7 +697,7 @@
                   span f. 
                 |	Se sugiere que los productos tóxicos, extremadamente inflamables o fácilmente inflamables que puedan llegar al público en general deben disponer de una indicación de peligro detectable al tacto (MinAmbiente, 2005).
 
-        .h5.mb-4 1.10.1. Materiales
+        .h5.mb-4 Materiales
 
         p.mb-4 Es importante conocer los materiales de los envases en que se almacenan los productos químicos para identificar las posibles reacciones que se pueden generar y que causan derrames o regueros en las zonas de almacenamiento, buscando con ello 
           strong minimizar peligros de esos productos y poder asignar la ubicación en las zonas de almacenamiento, 
@@ -706,7 +706,7 @@
         figure.mb-5
           img(src='@/assets/curso/tema2/img21.png', alt='Materiales')
 
-        .h5.mb-4 1.10.2. Compatibilidad de materiales con propiedades del producto
+        .h5.mb-4 Compatibilidad de materiales con propiedades del producto
 
         .row.mb-4
           .col-12.col-md-6.d-flex.align-items-center.mb-4.mb-md-0
@@ -739,7 +739,7 @@
 
         p.mb-5 Los productos químicos para ser almacenados deben previamente ser agrupados según los peligros y la compatibilidad que presentan con otros productos químicos, manteniendo así cerca y en zonas adjuntas los productos con peligros similares que presenten condiciones de temperatura, ventilación y humedad equivalente, y que no presenten reacción entre ellos. Lo que en caso de derrame o fuga mitiga la generación de cualquier reacción química que pueda poner en riesgo a los trabajadores y a la bodega en general.      
 
-        .h5.mb-4 1.11.1. Agrupamiento según incompatibilidades
+        .h5.mb-4 Agrupamiento según incompatibilidades
 
         .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
@@ -753,7 +753,7 @@
           strong la manipulación y almacenamiento del producto, donde se puede evidenciar las incompatibilidades en el almacenamiento, tanto a nivel del material de envase que puede contener el producto como de reacción con otros productos, 
           | información que será confirmada en la sección 10 del documento de estabilidad y reactividad, en el que adicionalmente podrá revisar factores que lo afectan, permitiendo así agrupar convenientemente el producto en familias  de almacenamiento.
 
-        .h5.mb-4 1.11.2. Matrices de incompatibilidad
+        .h5.mb-4 Matrices de incompatibilidad
 
         .row.mb-4
           .col-12.col-md-5.mb-4.mb-md-o
@@ -770,7 +770,7 @@
               img(src='@/assets/curso/tema2/img22.png', alt='concepto de VCI')
             p Nota. El correcto manejo de sustancias químicas. Mendoza (2011).
         
-        .h5.mb-4 1.11.3. Prácticas: separación por estado físico. Separación por incompatibilidades. Ubicación por peligrosidad. Ubicación por frecuencia de uso. Ubicación por características del envase
+        .h5.mb-4 Prácticas: separación por estado físico. Separación por incompatibilidades. Ubicación por peligrosidad. Ubicación por frecuencia de uso. Ubicación por características del envase
 
         p.mb-4 Cuando se manipulan, almacenan y se transportan internamente productos químicos es muy importante aplicar algunas reglas de organización de esos productos. Esta práctica de almacenamiento se hace 
           strong primero separando los productos por su estado físico, identificando si son líquidos, sólidos, gases u otro tipo, que implica que deben ser almacenados por similitud.
@@ -785,7 +785,7 @@
 
         p.mb-5 Adicional a los temas mencionados es importante en la ubicación de productos químicos dentro de la bodega considerar factores tales como la rotación de producto, accesibilidad, tipo de envase y afectación por condiciones medioambientales, por ejemplo, en el almacenamiento de productos químicos y como se mencionó antes, es necesario tener en cuenta que los envases de productos frágiles se ubiquen en lugares de fácil acceso para que facilite su entrega y movimiento dentro de las mismas zonas de almacenaje.
 
-        .h5.mb-4 1.11.4. Gestión: stock. Inventarios. Control de acceso. Procedimientos de trabajo. Checklist
+        .h5.mb-4 Gestión: stock. Inventarios. Control de acceso. Procedimientos de trabajo. Checklist
 
         p.mb-4 Para el control de los productos químicos en la zona de almacenamiento se debe contar con:
 
