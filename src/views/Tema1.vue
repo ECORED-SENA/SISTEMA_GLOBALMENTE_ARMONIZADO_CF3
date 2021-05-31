@@ -193,7 +193,7 @@
     
     p.mb-4 La variedad de instalaciones depende de la cantidad y, estas se dividen en:
 
-    SlyderC.mb-5(:datos="datosSlyderA")
+    SlyderA.mb-5(:datos="datosSlyderA")
 
     .row.mb-5
       .col-12.col-md-9
@@ -824,37 +824,31 @@ export default {
   data: () => ({
     datosSlyderA: [
       {
-        titulo:
-          'Bodega                                                        ',
+        titulo: 'Bodega',
         imagen: require('@/assets/curso/tema1/img12.png'),
       },
       {
-        titulo:
-          'Depósitos                                                     ',
+        titulo: 'Depósitos',
         imagen: require('@/assets/curso/tema1/img13.png'),
       },
       {
-        titulo:
-          'Patios                                                        ',
+        titulo: 'Patios',
         imagen: require('@/assets/curso/tema1/img14.png'),
       },
       {
-        titulo:
-          'Almacenes refrigerados                                        ',
+        titulo: 'Almacenes refrigerados',
         imagen: require('@/assets/curso/tema1/img15.png'),
       },
     ],
     datosSlyderB: [
       {
-        titulo:
-          'Condiciones del sitio de almacenamiento                       ',
+        titulo: 'Condiciones del sitio de almacenamiento',
         texto: 'Ubicación  Consejo Colombiano de Seguridad – CCS (2000).',
         imagen: require('@/assets/curso/tema1/img22.png'),
         // leyendaImagen: 'Consejo Colombiano de Seguridad – CCS (2000).',
       },
       {
-        titulo:
-          'Depósitos                                                     ',
+        titulo: 'Depósitos',
         texto:
           'La distribución de las edificaciones debe evitar la propagación del fuego y permitir el acceso de unidades de atención de emergencia.',
         imagen: require('@/assets/curso/tema1/img23.png'),
