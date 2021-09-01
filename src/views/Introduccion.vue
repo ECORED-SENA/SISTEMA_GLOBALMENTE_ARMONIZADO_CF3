@@ -7,7 +7,7 @@
       .titulo-principal__numero
         .h3
           i.fas.fa-info
-      .h3 Introducción
+      .h3.text-in Introducción
 
     p.mb-4 Durante el desarrollo del ciclo de vida del producto químico, incluyendo sus etapas de manufactura, transporte, comercialización e incluso manipulación y uso, el almacenamiento y transporte interno corresponden a elementos fundamentales para la gestión adecuada y segura de los productos químicos. Por ello, es importante tener en cuenta orientaciones técnicas que garanticen el mantenimiento de un ambiente de trabajo seguro y, la implementación de medidas y controles que protejan a los trabajadores, a la comunidad y en general al medio ambiente de los peligros que presentan los productos utilizados.
 

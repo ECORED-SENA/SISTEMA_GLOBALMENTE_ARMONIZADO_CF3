@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 2
-      .h3 Transporte interno de los productos químicos
+      .h3.text-in Transporte interno de los productos químicos
 
     .row.mb-4
       .col-6

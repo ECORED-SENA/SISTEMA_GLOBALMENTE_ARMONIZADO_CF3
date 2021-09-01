@@ -6,16 +6,14 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 Almacenamiento de los productos químicos
+      .h3.text-in Almacenamiento de los productos químicos
 
     p.mb-4 El almacenamiento de productos químicos corresponde a una labor esencial en cualquier empresa y sector en el que sean utilizados, almacenándolos como materias primas, productos semielaborados, elaborados, como residuos generados durante el proceso de manufactura o como materiales sobrantes dentro de la operación.
 
     figure.mb-4
       img(src='@/assets/curso/tema1/img01.png', alt='Almacenamiento de los productos químicos')
     
-    p.mb-4 Los sitios de almacenamiento pueden estar dentro o fuera de las instalaciones industriales y 
-      strong deben cumplir con características y condiciones que aseguren la mitigación/eliminación de cualquier riesgo a la exposición de los peligros de los productos químicos almacenados, 
-      | conservando su calidad y características (sean estos parámetros fisicoquímicos y/o propiedades organolépticas).
+    p.mb-4 Los sitios de almacenamiento pueden estar dentro o fuera de las instalaciones industriales y deben cumplir con características y condiciones que aseguren la mitigación/eliminación de cualquier peligro a la exposición de los productos químicos almacenados, conservando su calidad y características (sean estos parámetros fisicoquímicos y/o propiedades organolépticas).
 
     .row.justify-content-center.mb-5
       .col-11
@@ -30,23 +28,22 @@
                 strong son apoyadas a nivel industrial por la experiencia obtenida en la investigación de accidentes, 
                 | en la revisión y evaluación de las clases y categorías de peligros definidas en el SGA para un producto químico.
 
-    p.mb-5 Es importante considerar que existen factores críticos en la evaluación del riesgo durante el almacenamiento, aparte de los peligros que presenta el producto químico y de las   consideraciones relacionadas con su estado físico (gas, líquido o sólido) como lo son: la cantidad que se almacena de cada producto y las condiciones de infraestructura existentes y requeridas (tales como espacios, separaciones, iluminación, temperatura y ventilación).
+    p.mb-5 Es importante considerar que existen factores críticos en la evaluación del peligro durante el almacenamiento, aparte de los peligros que presenta el producto químico y de las   consideraciones relacionadas con su estado físico (gas, líquido o sólido) como lo son: la cantidad que se almacena de cada producto y las condiciones de infraestructura existentes y requeridas (tales como espacios, separaciones, iluminación, temperatura y ventilación).
+
 
     #t_1_1.titulo-segundo
       .h4 1.1 Peligros y riesgos durante el almacenamiento
 
-    p.mb-5 Los riesgos durante el almacenamiento se determinan principalmente a partir de la peligrosidad de los productos químicos almacenados, las cantidades existentes de estos y las condiciones de control a la exposición del sitio de almacenamiento.
+    p.mb-5 Los peligros durante el almacenamiento se determinan principalmente a partir de la peligrosidad de los productos químicos almacenados, las cantidades existentes de estos y las condiciones de control a la exposición del sitio de almacenamiento.
     .row.mb-5
       .col-12.col-md-7.mb-4.mb-md-0
         p.mb-4 El primer paso consiste en 
           strong identificar los peligros de los productos químicos almacenados y precisar la cantidad que se tiene de cada uno ellos.
-        p Para esto se recomienda realizar una lista de los productos químicos almacenados en la que se identifiquen las clases y categorías de peligro que presenta cada uno de ellos, además de relacionar en dicho inventario cuáles son las cantidades que se almacenan, si existen o no productos químicos vencidos y obsoletos, así como indicar cualquier otra consideración especial a tener en cuenta, por ejemplo,  
-          strong si presenta alguna restricción o consideración en la temperatura de almacenamiento, 
-          | y si existen productos químicos no identificados en la bodega para poder establecer con esta información el nivel de riesgo.
-     
+        p Para esto se recomienda realizar una lista de los productos químicos almacenados en la que se identifiquen las clases y categorías de peligro que presenta cada uno de ellos, además de relacionar en dicho inventario cuáles son las cantidades que se almacenan, si existen o no productos químicos vencidos y obsoletos, así como indicar cualquier otra consideración especial a tener en cuenta, por ejemplo,  si presenta alguna restricción o consideración en la temperatura de almacenamiento, y si existen productos químicos no identificados en la bodega para poder establecer con esta información el nivel de peligro.
+            
       .col-12.col-md-4.d-flex.mb-4.mb-md-0
         figure
-              img(src='@/assets/curso/tema1/img03.svg', alt='Peligros y riesgos durante el almacenamiento')
+              img.swing(src='@/assets/curso/tema1/img03.svg', alt='Peligros y riesgos durante el almacenamiento')
     
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
@@ -54,7 +51,7 @@
           .h5.mb-0 Con el fin de identificar las clases y categorías de peligros de los productos químicos es fundamental, como paso previo, disponer de la Ficha de Datos de Seguridad (FDS) y de la etiqueta de estos productos almacenados.
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p En particular, existen elementos de comunicación que permiten identificar estas clases y categorías de peligros, por ejemplo, la revisión de los pictogramas que traen información sobre la naturaleza de los peligros del producto. La palabra de advertencia (peligro o atención) y los textos de indicación de peligro, que relacionan el nivel de peligro que presentan y los consejos de prudencia, cuya información es importante en el establecimiento de medidas de mitigación del riesgo. Esta información se encuentra consignada tanto en la FDS como en la etiqueta.
+            p En particular, existen elementos de comunicación que permiten identificar estas clases y categorías de peligros, por ejemplo, la revisión de los pictogramas que traen información sobre la naturaleza de los peligros del producto. La palabra de advertencia (peligro o atención) y los textos de indicación de peligro, que relacionan el nivel de peligro que presentan y los consejos de prudencia, cuya información es importante en el establecimiento de medidas de mitigación del peligro. Esta información se encuentra consignada tanto en la FDS como en la etiqueta. 
 
     p.mb-4 Para garantizar la seguridad en el almacenamiento de los productos químicos 
       strong es fundamental conocer esta información y así, agrupar y almacenar por clases los productos químicos según su compatibilidad. 
@@ -76,9 +73,7 @@
           img(src='@/assets/curso/tema1/img06.svg', alt='Peligros de los productos químicos')
 
     .cajon.color-acento-contenido.p-4.mb-5
-      p En cualquier caso, además de los riesgos propios del almacenamiento, 
-        strong se deben evaluar los riesgos asociados a otras actividades que pueden estar realizándose en el sitio de almacenamiento, 
-        | por ejemplo, si en esta zona se realizan actividades de alistamiento, fraccionamiento, dispensación,  reenvase o despacho de productos químicos, cuya exposición de los productos químicos a los trabajadores  se debe mantener bajo control, también evaluar si se realizan  actividades diferentes a las ya antes mencionadas como el uso de equipos dentro de la zona de almacenamiento (por ejemplo, paletizadoras, montacargas, ventiladores, entre otros).
+      p En cualquier caso, además de los peligros propios del almacenamiento, se deben evaluar los peligros asociados a otras actividades que pueden estar realizándose en el sitio de almacenamiento, por ejemplo, si en esta zona se realizan actividades de alistamiento, fraccionamiento, dispensación,  reenvase o despacho de productos químicos, cuya exposición de los productos químicos a los trabajadores  se debe mantener bajo control, también evaluar si se realizan  actividades diferentes a las ya antes mencionadas como el uso de equipos dentro de la zona de almacenamiento (por ejemplo, paletizadoras, montacargas, ventiladores, entre otros).
 
     #t_1_2.titulo-segundo
       .h4 1.2 Escalas de almacenamiento
@@ -112,13 +107,13 @@
     .row.mb-5.justify-content-center
       .col-8.col-md-3.mb-4.mb-md-0
         figure
-          img(src='@/assets/curso/tema1/img08.png', alt='Condiciones de almacenamiento')
+          img.zoom(src='@/assets/curso/tema1/img08.png', alt='Condiciones de almacenamiento')
       .col-12.col-md-5
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
             span.h5.text-regular 
-              strong Los trabajadores del almacén deben contar con elementos de protección personal, conocer el riesgo de los productos que manipulan, conocer sus fichas de datos de seguridad y en general, saber cómo actuar en caso de emergencia.
+              strong Los trabajadores del almacén deben contar con elementos de protección personal, conocer el peligro de los productos que manipulan, conocer sus fichas de datos de seguridad y en general, saber cómo actuar en caso de emergencia.
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             p SENA, 2000.
@@ -139,7 +134,7 @@
 
     p.mb-4 Además, para los productos químicos 
       strong es muy importante controlar la fecha de ingreso asegurando que lo primero que expira es lo primero que sale, 
-      | con el fin de minimizar la posibilidad de que estos sufran procesos de degradación como las reacciones por descomposición, con sus correspondientes consecuencias que son los incendios, la generación de gases tóxicos o explosiones, así como evitar el deterioro y daño de los empaques y etiquetas, que a su vez incrementan los riesgos a la exposición de peligros en la zona de almacenamiento.
+      | con el fin de minimizar la posibilidad de que estos sufran procesos de degradación como las reacciones por descomposición, con sus correspondientes consecuencias que son los incendios, la generación de gases tóxicos o explosiones, así como evitar el deterioro y daño de los empaques y etiquetas, que a su vez incrementan los peligros a la exposición en la zona de almacenamiento. 
 
     .row.mb-5
       .col-12.col-md-7
@@ -161,7 +156,7 @@
       .col-0.col-md-1
       .col-12.col-md-4.d-flex
         figure
-          img(src='@/assets/curso/tema1/img10.svg', alt='Manipulación de productos químicos')
+          img.swing(src='@/assets/curso/tema1/img10.svg', alt='Manipulación de productos químicos')
 
     #t_1_6.titulo-segundo
       .h4 1.6 Trasvases
@@ -261,7 +256,7 @@
 
       p.mb-4 La bodega debe ser diseñada de tal manera que permita 
         strong la separación de materiales incompatibles por medios físicos o contar con una ubicación de áreas separadas y segregadas, 
-        | con muros cortafuego u otras precauciones aceptables, así como también contar con suficiente espacio para permitir el movimiento y manejo seguro de productos químicos y residuos peligrosos, y el desarrollo de las actividades de trabajo, además permitir el acceso libre por varios costados en caso de emergencia.
+        | con muros cortafuego u otras precauciones aceptables, así como también contar con suficiente espacio para permitir el movimiento y manejo seguro de productos químicos, y el desarrollo de las actividades de trabajo, además permitir el acceso libre por varios costados en caso de emergencia.
 
       SlyderB.mb-5(:datos="datosSlyderB")
 
@@ -302,7 +297,7 @@
           .h4.mb-4 
             strong Además, deben considerarse las condiciones climáticas de la zona donde se encuentra el almacenamiento y los peligros de los materiales almacenados.
         .col-12.col-md-7
-          p.mb-4 La distribución de la bodega debe permitir la organización de los productos químicos según incompatibilidades por medio de edificios o áreas separadas, además debe admitir movimientos y manejo seguro de productos y residuos peligrosos. Además, debe existir espacio suficiente para las condiciones de trabajo y el acceso libre por varios costados en caso de emergencia. Por tanto, se recomienda tener en cuenta los siguientes aspectos:
+          p.mb-4 La distribución de la bodega debe permitir la organización de los productos químicos según incompatibilidades por medio de edificios o áreas separadas, además debe admitir movimientos y manejo seguro de productos químicos. Además, debe existir espacio suficiente para las condiciones de trabajo y el acceso libre por varios costados en caso de emergencia. Por tanto, se recomienda tener en cuenta los siguientes aspectos:
 
       .row.justify-content-center.mb-4
         .col-11
@@ -322,7 +317,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span d. 
-              | Las áreas de oficina deben estar fuera del área de riesgo. 
+              | Las áreas de oficina deben estar fuera del área de peligro.
             li 
               .lista-ol--cuadro__vineta
                 span e. 
@@ -441,7 +436,7 @@
                 | Se debe evitar el uso de instalaciones eléctricas temporales; sin embargo, cuando estas sean necesarias, siempre se debe asignar a una persona cualificada para su seguimiento y control.
           .col-12.col-md-5.d-flex
             figure
-              img(src='@/assets/curso/tema2/img04.svg', alt='seguimiento y control')
+              img.swing(src='@/assets/curso/tema2/img04.svg', alt='seguimiento y control')
 
         p.mb-4 Como consideraciones básicas de diseño, 
           strong todo equipo eléctrico debe estar ubicado de manera que se eviten daños accidentales causados por movimiento de vehículos o estibas, o por el contacto con agua u otro líquido. 
@@ -460,7 +455,7 @@
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema2/img05.svg', alt='Calefacción')
+                  img.swing(src='@/assets/curso/tema2/img05.svg', alt='Calefacción')
               .col-md-6
                 .h4 Calefacción
                 p Generalmente es preferible que el lugar de almacenamiento sea frío. Cuando la calefacción sea necesaria para mantener condiciones aceptables de trabajo o mantener las condiciones de temperatura requeridas en el área de almacenamiento de los productos químicos almacenados, se recomienda que la fuente de calor esté fuera del área de la bodega de almacenamiento. Si es necesario el uso de aislante, este debe ser elaborado con un material no combustible, por ejemplo, la fibra de vidrio.
@@ -469,18 +464,18 @@
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema2/img06.svg', alt='Calefacción')
+                  img.swing(src='@/assets/curso/tema2/img06.svg', alt='Calefacción')
               .col-md-6
                 .h4 Protección contra relámpagos
                 p Toda bodega que almacene productos químicos y materiales inflamables 
                   strong debe considerar en su diseño la instalación de equipos de protección contra relámpagos, como por ejemplo pararrayos. 
-                  | En el caso de productos químicos inflamables es importante considerar el uso de utensilios y elementos que no generen estática por fricción al paso del producto químico y que puedan ser un riesgo de incendio para el almacenamiento.
+                  | En el caso de productos químicos inflamables es importante considerar el uso de utensilios y elementos que no generen estática por fricción al paso del producto químico y que puedan ser un peligro de incendio para el almacenamiento. 
 
           .py-3.py-md-4(titulo="Otras instalaciones")
             .row
               .col-md-6.mb-4.mb-md-0
                 figure
-                  img(src='@/assets/curso/tema2/img07.svg', alt='Calefacción')
+                  img.swing(src='@/assets/curso/tema2/img07.svg', alt='Calefacción')
               .col-md-6
                 .h4 Otras instalaciones
                 p Idealmente, no deberían existir oficinas, vestieres o cuartos de basura como parte integral de la bodega de almacenamiento. Si estas instalaciones existen dentro de la bodega se debería construir una estructura de separación que tenga una resistencia al fuego de al menos 60 minutos.
@@ -523,9 +518,7 @@
               img(src='@/assets/curso/tema2/img09.png', alt='Iluminación')
           .col-12.col-md-6.d-flex
             .cajon.d-flex.align-items-center.color-primario.p-4
-              p En el almacenamiento de productos químicos 
-                strong es conveniente la iluminación para la manipulación de alguno de ellos, 
-                | minimizando los riesgos para los productos químicos almacenados.
+              p En el almacenamiento de productos químicos es conveniente la iluminación para la manipulación de alguno de ellos, minimizando los peligros para los productos químicos almacenados.
         
         .h5.mb-4 Orden y limpieza
 
@@ -574,9 +567,8 @@
 
         .row.mb-5
           .col-12.col-md-7.mb-4.mb-md-0
-            p.mb-4 La señalización de una zona de almacenamiento es 
-              strong primordial para minimizar los riesgos en la operación, tiene por objeto establecer colores y señales normalizadas 
-              | que adviertan a los trabajadores la presencia de un riesgo o la existencia de una prohibición u obligación, con el fin de prevenir accidentes que afecten la salud o el medio ambiente.
+            p.mb-4 La señalización de una zona de almacenamiento es primordial para minimizar los peligros en la operación, tiene por objeto establecer colores y señales normalizadas que adviertan a los trabajadores la presencia de un peligro o la existencia de una prohibición u obligación, con el fin de prevenir accidentes que afecten la salud o el medio ambiente. 
+
             a.anexo.mb-4(:href="obtenerLink('/downloads/anexo05.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
@@ -586,7 +578,7 @@
           .col-1
           .col-12.col-md-4.d-flex
             figure
-              img.trasvasesHC(src='@/assets/curso/tema2/img15.svg', alt='Señalización')
+              img.zoom.trasvasesHC(src='@/assets/curso/tema2/img15.svg', alt='Señalización')
         
         .h5.mb-4 Equipamiento
 
@@ -608,7 +600,7 @@
                 strong Estanterías
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img16.svg', alt='Señalización')
-              p Son primordiales en las zonas de almacenamiento porque permiten realizar una mejor distribución de los espacios al organizar los productos, minimizando los riesgos derivados de su ubicación.
+              p Son primordiales en las zonas de almacenamiento porque permiten realizar una mejor distribución de los espacios al organizar los productos, minimizando los peligros derivados de su ubicación.
 
           .col-12.col-md-6.d-flex.mb-4.mb-md-0
             .cajon.align-items-center.color-primario.p-4.mb-4
@@ -632,7 +624,7 @@
                 strong Contenedores
               figure.mb-5
                 img.trasvasesHC(src='@/assets/curso/tema2/img19.svg', alt='Contenedores')
-              p.mb-4 Para el almacenamiento de los productos químicos es importante identificar los contenedores como un almacén prefabricado, que cumple con todos los requisitos necesarios para el adecuado almacenamiento de estos productos. Son utilizados como mecanismos de seguridad en el almacenamiento de dichos productos, minimizando así los riesgos asociados a su manipulación.
+              p.mb-4 Para el almacenamiento de los productos químicos es importante identificar los contenedores como un almacén prefabricado, que cumple con todos los requisitos necesarios para el adecuado almacenamiento de estos productos. Son utilizados como mecanismos de seguridad en el almacenamiento de dichos productos, minimizando así los peligros asociados a su manipulación.
 
         #t_1_8.titulo-segundo
           .h4 1.8 Portabotellas
@@ -691,7 +683,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span e. 
-                | Las sustancias muy tóxicas, tóxicas o corrosivas que puedan llegar al público en general deben disponer de un cierre de seguridad y llevar una indicación de peligro detectable al tacto.
+                | Los productos químicos muy tóxicos, tóxicos o corrosivos que puedan llegar al público en general deben disponer de un cierre de seguridad y llevar una indicación de peligro detectable al tacto. 
               li 
                 .lista-ol--cuadro__vineta
                   span f. 
@@ -761,14 +753,14 @@
               .bloque-texto-b__texto
                 span.h5.mb-0 El almacenamiento de los productos químicos es facilitado por el uso de la matriz de compatibilidad de productos químicos.
           .col-12.col-md-7
-            p.mb-4 Esta matriz se encuentra compuesta por una columna vertical y otra horizontal, en las que se relacionan las familias generadas de agrupación y, que permiten según un código de colores establecido, indicar la compatibilidad que presenta una familia particular respecto a las demás establecidas, generando un patrón que al ser considerado permite ubicar correctamente los productos dentro de la bodega, mitigando los riesgos asociados a la reactividad entre productos no compatibles. Por ende, esta matriz es importante en la gestión de la zona de almacenamiento.
+            p.mb-4 Esta matriz se encuentra compuesta por una columna vertical y otra horizontal, en las que se relacionan las familias generadas de agrupación y, que permiten según un código de colores establecido, indicar la compatibilidad que presenta una familia particular respecto a las demás establecidas, generando un patrón que al ser considerado permite ubicar correctamente los productos dentro de la bodega, mitigando los peligros asociados a la reactividad entre productos no compatibles. Por ende, esta matriz es importante en la gestión de la zona de almacenamiento. 
 
         .row.justify-content-center.mb-5
           .col-10
             p.mb-4 El concepto de VCI (representación simplificada)
             figure.mb-5
               img(src='@/assets/curso/tema2/img22.png', alt='concepto de VCI')
-            p Nota. El correcto manejo de sustancias químicas. Mendoza (2011).
+            p Nota. El correcto manejo de productos químicos. Mendoza (2011).
         
         .h5.mb-4 Prácticas: separación por estado físico. Separación por incompatibilidades. Ubicación por peligrosidad. Ubicación por frecuencia de uso. Ubicación por características del envase
 

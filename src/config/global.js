@@ -110,7 +110,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Riesgos y peligros en el traslado interno',
+            titulo: 'Peligros y riesgos en el traslado interno',
             hash: 't_2_2',
           },
         ],
@@ -131,11 +131,6 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
@@ -221,6 +216,10 @@ export default {
       },
       {
         nombre: 'Diego Fernando Velasco Güiza',
+        cargo: 'Desarrollo Front-End',
+      },
+      {
+        nombre: 'Edward Leonardo Pico Cabra',
         cargo: 'Desarrollo Front-End',
       },
       {

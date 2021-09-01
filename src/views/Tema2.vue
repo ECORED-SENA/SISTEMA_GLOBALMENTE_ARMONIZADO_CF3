@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 2
-      .h3 Transporte interno de los productos químicos
+      .h3.text-in Transporte interno de los productos químicos
 
     .row.mb-5
       .col-12.col-md-6.mb-4.mb-md-0
@@ -19,7 +19,7 @@
             | Además, en esta actividad es importante disponer de los materiales, equipos, elementos de protección personal que son necesarios para la adecuada gestión según lo establecido en la FDS.
 
     #t_2_1.titulo-segundo
-      .h4 2.1 Condiciones de seguridad
+      .h4.text-in 2.1 Condiciones de seguridad
 
     p.mb-4 Cuando se va a realizar el transporte interno de algún  producto químico 
       strong se debe verificar previamente las condiciones de seguridad del vehículo, el estado del mantenimiento de este y, las condiciones y competencias de la persona que lo va utilizar, 
@@ -29,7 +29,7 @@
       img(src='@/assets/curso/tema3/img02.png', alt='Condiciones de seguridad')
 
     #t_2_2.titulo-segundo
-      .h4 2.2 Riesgos y peligros en el traslado interno
+      .h4 2.2 Peligros y riesgos en el traslado interno
     
     .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
       .row.m-0.align-items-center.justify-content-between
